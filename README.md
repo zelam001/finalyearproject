@@ -5,3 +5,7 @@ STEPS TO USE CODE
 3. Open Artist Image Classification.ipnyb
 4. Run Code
 5. To load unseen image, simply change image name in 'load_img' and Run
+
+Sources used for code:
+https://learnopencv.com/image-classification-using-feedforward-neural-network-in-keras/
+https://medium.com/nerd-for-tech/how-to-train-neural-networks-for-image-classification-part-1-21327fe1cc1
